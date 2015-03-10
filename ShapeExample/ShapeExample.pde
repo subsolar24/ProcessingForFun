@@ -30,8 +30,7 @@ boolean createRandomShapes() {
   int y,y1,y2,h3; 
   int w,h; 
   
-  randomShape = 4; 
-  // randomShape = int(random(0,5));
+  randomShape = int(random(0,5));
  
   switch(randomShape) {  
     case 0: 
