@@ -21,7 +21,6 @@ void draw() {
   createRandomShapes(); 
 }
 
-
 // Create Random Lines 
 boolean createRandomShapes() 
 { 
